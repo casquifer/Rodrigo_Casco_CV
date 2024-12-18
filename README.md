@@ -48,15 +48,15 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 ### Portfolio
 
 -[kanexyscomex.com](https://kanexyscomex.com/): Plataforma de comercio exterior. <br>
--[iraru.org](https://www.iraru.org/):(https://www.iraru.org/): Espacio cultural en Austria. <br>
+-[iraru.org](https://www.iraru.org/): Espacio cultural en Austria. <br>
 -[servidorlimpieza.com.ar](https://servidorlimpieza.com.ar/): e-commerce de productos de limpieza. <br>
 
 ### Proyectos Universitarios
 
--Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar] (https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb)<br>
+-Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb):<br>
 -Sistema para inmobiliaria realizado con C<br>
 -Alarma funcional realizada con Arduino (escrito en lenguaje C)<br>
--Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick] (https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
+-Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
 -Video Juego realizado con Python (pygame)<br>
 -Video Juego realizado con Assembler<br>
 
