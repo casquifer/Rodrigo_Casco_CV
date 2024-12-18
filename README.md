@@ -1,7 +1,7 @@
 # Rodrigo Casco 
 ## Full Stack Developer
 
-Desarrollador con más de 10 años de experiencia en diseño y programación web, aplicaciones y videojuegos. Experto en tecnologías como PHP, Python, JavaScript, y frameworks modernos como Laravel y Vue. Apasionado por la innovación, el trabajo en equipo y la creación de soluciones eficientes.
+Desarrollador con más de 10 años de experiencia en diseño y programación web, tanto en vanilla como con los frameworks mas usados. Actualmente desarrollando sistemas con PHP, Python, JavaScript, y frameworks modernos como Laravel y Vue. Cómodo en proyectos grupales e individuales. Apasionado por la innovación, la investigación y las soluciones únicas y eficientes.
 
 ## Habilidades Técnicas:
 
@@ -9,7 +9,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Frameworks y Librerías: Laravel, Vue, React, jQuery y Bootstrap.<br>
 
--Herramientas: Docker, AWS, GitHub, MySQL y WordPress.<br>
+-Herramientas: Linux, Docker, AWS, GitHub, MySQL y WordPress.<br>
 
 ## Habilidades Blandas
 
@@ -23,7 +23,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Educación
 
--Técnico en Programación Informática, UNSAM – Actualmente cursando 3° año.
+-Técnico Universitario en Programación Informática, UNSAM – Actualmente cursando 3° año. [Info de la carrera](https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)
 
 ## Cursos Complementarios
 
@@ -38,10 +38,10 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 ## Experiencia Profesional
 
 -Desarrollador Full Stack (Mayo 2024 – Actualidad) - Comisión Nacional de Energía Atómica:<br>
-  -Desarrollo de sistemas para la gestión interna en entornos Linux utilizando PHP, Python, y Laravel.<br>
+  -Desarrollo de sistemas para la gestión interna en entornos Linux utilizando PHP, Python, Vue y Laravel.<br>
   -Uso de contenedores Docker para optimizar entornos de desarrollo.<br>
   -Colaboración en proyectos de código compartido mediante GitHub.<br>
-  -Implementación y uso del Open Sources Open Semantic Search en otras aplicaciones<br>
+  -Implementación y uso del Open Source [Open Semantic Search](https://opensemanticsearch.org/) en otras aplicaciones<br>
 
 -Jefe de División Gestión Documental (Julio 2012 – Mayo 2024) - Comisión Nacional de Energía Atómica:<br>
   -Uso y dictado de cursos sobre sistemas de gestión documental.<br>
