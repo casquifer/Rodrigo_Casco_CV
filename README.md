@@ -2,7 +2,7 @@
 ## Full Stack Developer
 
 Desarrollador con más de 10 años de experiencia en diseño y programación web, tanto en vanilla como con los frameworks mas usados. Actualmente desarrollando sistemas con PHP, Python, JavaScript, y frameworks modernos como Laravel y Vue. Cómodo en proyectos grupales e individuales. Apasionado por la innovación, la investigación y las soluciones únicas y eficientes.
-
+<br>
 
 ## Habilidades Técnicas:
 
@@ -11,7 +11,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 -Frameworks y Librerías: Laravel, Vue, React, jQuery y Bootstrap.<br>
 
 -Herramientas: Linux, Docker, AWS, GitHub, MySQL y WordPress.<br>
-
+<br>
 
 ## Habilidades Blandas
 
@@ -22,12 +22,12 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 -Creatividad<br>
 
 -Proactividad<br>
-
+<br>
 
 ## Educación
 
 -Técnico Universitario en Programación Informática, UNSAM – Actualmente cursando 3° año. [Info de la carrera](https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)
-
+<br>
 
 ## Cursos Complementarios
 
@@ -38,7 +38,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 -PHP y MySQL – UDEMY (20 hs)<br>
 
 -Desarrollo de Videojuegos con Phaser – UDEMY (10 hs)<br>
-
+<br>
 
 ## Experiencia Profesional
 
@@ -57,7 +57,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
   -Diseño y desarrollo de sitios web, aplicaciones móviles y videojuegos.<br>
   -Desarrollos en Vanilla JS, HTMl, CSS.<br>
   -Instalación y edición en WordPress, Magento y Prestashop.<br>
-
+<br>
 
 ## Portfolio
 
@@ -66,7 +66,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 -[iraru.org](https://www.iraru.org/): Espacio cultural en Austria. <br>
 
 -[servidorlimpieza.com.ar](https://servidorlimpieza.com.ar/): e-commerce de productos de limpieza. <br>
-
+<br>
 
 ## Proyectos Universitarios
 
@@ -81,7 +81,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 -Video Juego realizado con Python (pygame): [Worms Grand Prix](https://github.com/casquifer/worms_grand_prix)<br>
 
 -Video Juego realizado con Assembler: [Detective Desconocido](https://github.com/casquifer/detective_desconocido)<br>
-
+<br>
 
 ## Datos Personales
 
