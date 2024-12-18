@@ -65,15 +65,15 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb):<br>
 
--Sistema para inmobiliaria realizado con C<br>
+-Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
 
 -Alarma funcional realizada con Arduino (escrito en lenguaje C)<br>
 
 -Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
 
--Video Juego realizado con Python (pygame)<br>
+-Video Juego realizado con Python (pygame): [Worms Grand Prix](https://github.com/casquifer/worms_grand_prix)<br>
 
--Video Juego realizado con Assembler<br>
+-Video Juego realizado con Assembler: [Detective Desconocido](https://github.com/casquifer/detective_desconocido)<br>
 
 ## Datos Personales
 
