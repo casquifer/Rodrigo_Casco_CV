@@ -63,7 +63,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Proyectos Universitarios
 
--Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb):<br>
+-Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb)<br>
 
 -Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
 
