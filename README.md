@@ -5,16 +5,16 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ### Habilidades Técnicas:
 
--Lenguajes de Programación: PHP, Python, JavaScript, C/C++, Assembly 8086, HTML5 y CSS3.
--Frameworks y Librerías: Laravel, Vue, React, jQuery y Bootstrap.
--Herramientas: Docker, AWS, GitHub, MySQL y WordPress.
+-Lenguajes de Programación: PHP, Python, JavaScript, C/C++, Assembly 8086, HTML5 y CSS3. <br>
+-Frameworks y Librerías: Laravel, Vue, React, jQuery y Bootstrap.<br>
+-Herramientas: Docker, AWS, GitHub, MySQL y WordPress.<br>
 
 ### Habilidades Blandas
 
--Trabajo en equipo
--Organización
--Creatividad
--Proactividad
+-Trabajo en equipo<br>
+-Organización<br>
+-Creatividad<br>
+-Proactividad<br>
 
 ### Educación
 
