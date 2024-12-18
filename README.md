@@ -47,7 +47,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ### Portfolio
 
--kanexyscomex.com: Plataforma de comercio exterior. https://kanexyscomex.com/<br>
+-[https://kanexyscomex.com/ kanexyscomex.com]: Plataforma de comercio exterior. <br>
 -iraru.org: Espacio cultural en Austria. https://www.iraru.org/<br>
 -servidorlimpieza.com.ar: e-commerce de productos de limpieza. https://servidorlimpieza.com.ar/<br>
 
