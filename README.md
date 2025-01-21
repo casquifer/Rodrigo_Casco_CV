@@ -74,7 +74,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
 
--Alarma funcional realizada con Arduino (escrito en lenguaje C) [Alarma Integral](https://www.tinkercad.com/things/6WsgiRhcwWz-alarma-final?sharecode=TPlbyC63ZeG-z0LuBA0BLgAiEoSZtplEewaIdReXxKc))<br>
+-Alarma funcional realizada con Arduino (escrito en lenguaje C) [Alarma Integral](https://www.tinkercad.com/things/6WsgiRhcwWz-alarma-final?sharecode=TPlbyC63ZeG-z0LuBA0BLgAiEoSZtplEewaIdReXxKc)<br>
 
 -Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
 
