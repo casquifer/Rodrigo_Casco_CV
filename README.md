@@ -42,18 +42,18 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Experiencia Profesional
 
--Desarrollador Full Stack (Mayo 2024 – Actualidad) - Comisión Nacional de Energía Atómica:<br>
+**-Desarrollador Full Stack (Mayo 2024 – Actualidad) - Comisión Nacional de Energía Atómica:** <br><br> 
   -Desarrollo de sistemas para la gestión interna en entornos Linux utilizando PHP, Python, Vue y Laravel.<br>
   -Uso de contenedores Docker para optimizar entornos de desarrollo.<br>
   -Colaboración en proyectos de código compartido mediante GitHub.<br>
   -Implementación y uso del Open Source [Open Semantic Search](https://opensemanticsearch.org/) en otras aplicaciones<br>
 
--Jefe de División Gestión Documental (Julio 2012 – Mayo 2024) - Comisión Nacional de Energía Atómica:<br>
+**-Jefe de División Gestión Documental (Julio 2012 – Mayo 2024) - Comisión Nacional de Energía Atómica:** <br><br>
   -Uso y dictado de cursos sobre sistemas de gestión documental.<br>
   -Creación de páginas internas en WordPress, HTML5 y PHP.<br>
   -Coordinación de equipos en modalidad híbrida para proyectos internos.<br>
 
--Diseño y Programación Web (Abril 2016 – Actualidad) - Freelance<br>
+**-Diseño y Programación Web (Abril 2016 – Actualidad) - Freelance**<br><br>
   -Diseño y desarrollo de sitios web, aplicaciones móviles y videojuegos.<br>
   -Desarrollos en Vanilla JS, HTMl, CSS.<br>
   -Instalación y edición en WordPress, Magento y Prestashop.<br>
@@ -74,7 +74,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
 
--Alarma funcional realizada con Arduino (escrito en lenguaje C)<br>
+-Alarma funcional realizada con Arduino (escrito en lenguaje C) [Alarma Integral](https://www.tinkercad.com/things/6WsgiRhcwWz-alarma-final?sharecode=TPlbyC63ZeG-z0LuBA0BLgAiEoSZtplEewaIdReXxKc))<br>
 
 -Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
 
