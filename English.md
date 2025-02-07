@@ -1,21 +1,21 @@
 # Rodrigo Casco 
 ## Full Stack Developer
 
-Developer with 10 years of experience in web design and programming, both in vanilla and with the most used frameworks. Currently developing systems with PHP, Python, JavaScript, and modern frameworks (Laravel and Vue). Open to teamwork or individual projects. Passionate about innovation, research and unique and efficient solutions.
+Developer with 10 years of experience in web design and programming, both in vanilla and using the most popular frameworks. Currently developing systems with PHP, Python, JavaScript, and modern frameworks such as Laravel and Vue. Open to teamwork or individual projects. Passionate about innovation, research, and creating unique and efficient solutions.
 <br><br>
 
-## Hard Skills:
+## Hard Skills
 
--Languages: PHP, Python, JavaScript, C/C++, Assembly 8086, HTML5 y CSS3. <br>
+-Languages: PHP, Python, JavaScript, C/C++, Assembly 8086, HTML5 and CSS3. <br>
 
--Frameworks: Laravel, Vue, React, jQuery y Bootstrap.<br>
+-Frameworks: Laravel, Vue, React, jQuery and Bootstrap.<br>
 
--Tools: Linux, Docker, AWS, GitHub, MySQL y WordPress.<br>
+-Tools: Linux, Docker, AWS, GitHub, MySQL and WordPress.<br>
 <br><br>
 
 ## Soft Skills
 
--Team Work<br>
+-Teamwork<br>
 
 -Organization<br>
 
@@ -26,82 +26,82 @@ Developer with 10 years of experience in web design and programming, both in van
 
 ## Languages
 
--Intermediate English<br>
+-English: Intermediate<br>
 
--Basic French<br><br>
+-French: Basic<br><br>
 
 ## Education
 
--University Technician in Computer Programming, UNSAM – Currently studying 3rd year. [Info](https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)
+-University Technician in Computer Programming – UNSAM (Currently in 3rd year). [Info](https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)
 <br><br>
 
 ## Complementary Courses
 
--Web programming (HTML, JS, CSS3) – IT MASTER (84 hs)<br>
+-Web Programming (HTML, JS, CSS3) – IT MASTER (84 hs)<br>
 
 -Python – UNSAM (90 hs)<br>
 
--PHP y MySQL – UDEMY (20 hs)<br>
+-PHP and MySQL – UDEMY (20 hs)<br>
 
 -Video Game Development with Phaser– UDEMY (10 hs)<br>
 <br><br>
 
 ## Professional Experience
 
-**-Full Stack Developer (Mayo 2024 – Actualidad) - Comisión Nacional de Energía Atómica:** <br><br> 
-  -Desarrollo de sistemas para la gestión interna en entornos Linux utilizando PHP, Python, Vue y Laravel.<br>
-  -Uso de contenedores Docker para optimizar entornos de desarrollo.<br>
-  -Colaboración en proyectos de código compartido mediante GitHub.<br>
-  -Implementación y uso del Open Source [Open Semantic Search](https://opensemanticsearch.org/) en otras aplicaciones<br>
+**-Full Stack Developer (May 2024 – Present) – National Atomic Energy Commission:** <br><br> 
+  -Development of internal management systems in Linux environments using PHP, Python, Vue, and Laravel..<br>
+  -Use of Docker containers to optimize development environments.<br>
+  -Collaboration on shared code projects through GitHub.<br>
+  -Implementation and integration of Open Semantic Search in other applications. [Open Semantic Search](https://opensemanticsearch.org/) en otras aplicaciones<br>
 
-**-Jefe de División Gestión Documental (Julio 2012 – Mayo 2024) - Comisión Nacional de Energía Atómica:** <br><br>
-  -Uso y dictado de cursos sobre sistemas de gestión documental.<br>
-  -Creación de páginas internas en WordPress, HTML5 y PHP.<br>
-  -Coordinación de equipos en modalidad híbrida para proyectos internos.<br>
+**-Head of the Document Management Division (July 2012 – May 2024) – National Atomic Energy Commission:** <br><br>
+  -Use and training on document management systems.<br>
+  -Creation of internal pages using WordPress, HTML5, and PHP.<br>
+  -Coordination of hybrid teams for internal projects.<br>
 
-**-Diseño y Programación Web (Abril 2016 – Actualidad) - Freelance**<br><br>
-  -Diseño y desarrollo de sitios web, aplicaciones móviles y videojuegos.<br>
-  -Desarrollos en Vanilla JS, HTMl, CSS.<br>
-  -Instalación y edición en WordPress, Magento y Prestashop.<br>
+**-Web Design & Development (April 2016 – Present) - Freelance**<br><br>
+  -Design and development of websites, mobile applications, and video games.<br>
+  -Development with Vanilla JS, HTML, and CSS.<br>
+  -Installation and customization of WordPress, Magento, and Prestashop.<br>
 <br><br>
 
 ## Portfolio
 
--[kanexyscomex.com](https://kanexyscomex.com/): Plataforma de comercio exterior. <br>
+-[kanexyscomex.com](https://kanexyscomex.com/):  Foreign trade platform. <br>
 
--[iraru.org](https://www.iraru.org/): Espacio cultural en Austria. <br>
+-[iraru.org](https://www.iraru.org/): Cultural space in Austria. <br>
 
--[servidorlimpieza.com.ar](https://servidorlimpieza.com.ar/): e-commerce de productos de limpieza. <br>
+-[servidorlimpieza.com.ar](https://servidorlimpieza.com.ar/): E-commerce for cleaning products. <br>
 <br><br>
 
-## Proyectos Universitarios
+## University Projects
 
--Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb)<br>
+-Data Frame Analysis and Neural Network Implementation: [Stellar Classification](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb)<br>
 
--Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
+-Login System for a Real Estate Agency (C language): [Real Estate System](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
 
--Alarma funcional realizada con Arduino (escrito en lenguaje C) [Alarma Integral](https://www.tinkercad.com/things/6WsgiRhcwWz-alarma-final?sharecode=TPlbyC63ZeG-z0LuBA0BLgAiEoSZtplEewaIdReXxKc)<br>
+-Fully Functional Alarm using Arduino (C language) [Integral Alarm](https://www.tinkercad.com/things/6WsgiRhcwWz-alarma-final?sharecode=TPlbyC63ZeG-z0LuBA0BLgAiEoSZtplEewaIdReXxKc)<br>
 
--Video Juego realizado con Wollok (lenguaje orientado a objetos): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
+-Video Game Developed with Wollok (Object-Oriented Language): [Pickle Rick](https://github.com/algo1unsam/tp-game-s224-PlapGames)<br>
 
--Video Juego realizado con Python (pygame): [Worms Grand Prix](https://github.com/casquifer/worms_grand_prix)<br>
+-Video Game Developed with Python (Pygame):  [Worms Grand Prix](https://github.com/casquifer/worms_grand_prix)<br>
 
--Video Juego realizado con Assembler: [Detective Desconocido](https://github.com/casquifer/detective_desconocido)<br>
+-Video Game Developed with Assembly: [Unknown Detective](https://github.com/casquifer/detective_desconocido)<br>
 <br><br>
 
-## Datos Personales
+## Personal Information
 
--Nombre y Apellido: Rodrigo Casco<br>
+-Full Name: Rodrigo Casco<br>
 
--Edad: 37 años<br>
+-Age: 37 years<br>
 
--Fecha de Nacimiento: 16/03/1987<br>
+-Date of Birth: 16/03/1987<br>
 
--Nacionalidad: Argentino<br>
+-Nationality: Argentinian<br>
 
--Estado Civil: Soltero<br>
+-Marital Status: Single<br>
 
--Mail: rodrigo.casco@live.com.ar<br>
+-Email: rodrigo.casco@live.com.ar<br>
 
--Teléfono: +54 9 11 35 25 15 11<br>
+-Phone: +54 9 11 35 25 15 11<br>
 
