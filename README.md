@@ -26,7 +26,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Idiomas
 
--Ingles intermedio<br>
+-Ingles intermedio (B1)<br>
 
 -Francés Básico<br><br>
 
