@@ -93,7 +93,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Nombre y Apellido: Rodrigo Casco<br>
 
--Edad: 37 años<br>
+-Edad: 38 años<br>
 
 -Fecha de Nacimiento: 16/03/1987<br>
 
