@@ -6,11 +6,11 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Habilidades Técnicas:
 
--Lenguajes de Programación: PHP, Python, JavaScript, C/C++, Kotlin, Assembly 8086, HTML5 y CSS3. <br>
+-Lenguajes de Programación: C/C++, Python, PHP, Kotlin, JavaScript, Assembly 8086, HTML5 y CSS3. <br>
 
--Frameworks y Librerías: Laravel, Vue, React, jQuery y Bootstrap.<br>
+-Frameworks y Bibliotecas: Laravel, Vue, React, jQuery y Bootstrap.<br>
 
--Herramientas: Linux, Docker, Arduino, AWS, GitHub, MySQL y WordPress.<br>
+-Herramientas: Arduino, Docker, AWS, Oracle, GitHub, MySQL y WordPress.<br>
 <br><br>
 
 ## Habilidades Blandas
@@ -39,7 +39,7 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 -Programación Web (HTML, JS, CSS3) – IT MASTER (84 hs)<br>
 
--Python – UNSAM (90 hs)<br>
+-Python – UNSAM (96 hs)<br>
 
 -PHP y MySQL – UDEMY (20 hs)<br>
 
@@ -48,6 +48,10 @@ Desarrollador con más de 10 años de experiencia en diseño y programación web
 
 ## Experiencia Profesional
 
+**-Docente Ayudante (Marzo 2025 – Actualidad) - Universidad Nacional de San Martín (UNSAM):** <br><br> 
+  -Ayudante y JTP de la materia Redes Locales. Confección y corrección de TPs.<br> 
+  -Temas: Ethernet, IP, Redes Inalámbricas, Redes definidas por software (Python), Seguridad y Últimas tecnologías (CISCO, GNS3,        ANSIBLE, IA, etc).
+  
 **-Desarrollador Full Stack (Mayo 2024 – Actualidad) - Comisión Nacional de Energía Atómica:** <br><br> 
   -Desarrollo de sistemas para la gestión interna en entornos Linux utilizando PHP, Python, Vue y Laravel.<br>
   -Uso de contenedores Docker para optimizar entornos de desarrollo.<br>
