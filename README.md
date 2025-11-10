@@ -10,6 +10,12 @@
 
 ## Proyectos Universitarios
 
+-App Delivery - Backend: [Kotlin](https://github.com/algo3-unsam/algo-que-pedir-backend-2025-grupo10)<br>
+
+-App Delivery - Frontend: [React](https://github.com/algo3-unsam/algo-que-pedir-2025-react-grupo10)<br>
+
+-App Delivery - Frontend [Svelte](https://github.com/algo3-unsam/algo-que-pedir-2025-grupo10)<br>
+
 -Analisis de Data Frame y realización de Red Neuronal: [Clasificación Estelar](https://github.com/casquifer/clasificacion_estelar/blob/main/Analisis_Data_Frame.ipynb)<br>
 
 -Sistema con login para inmobiliaria realizado con C: [Sistema Inmobiliaria](https://github.com/casquifer/sistema_login_inmobiliaria)<br>
